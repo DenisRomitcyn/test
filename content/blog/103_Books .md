@@ -4,17 +4,17 @@ categories = ["podcast"]
 tags = ["Books"]
 date = "2016-01-17"
 description = "Про Traffic flow и книги"
-featured = "TAOP_101Twitter.png"
-featuredalt = "Зачем хранимые процедуры?"
+featured = "TAOP_103Twitter.png"
+featuredalt = "Traffic flow и книги"
 featuredpath = "date"
 linktitle = ""
-title = "Зачем хранимые процедуры?"
+title = "Traffic flow и книги"
 type = "post"
 
-твит: Про Traffic flow и книги в постновогоднем 103 выпуске The Art Of Programming
+twit: Про Traffic flow и книги в постновогоднем 103 выпуске The Art Of Programming
 
 +++
-# Выпуск №102 — The Art Of Programming [ Community ] JUG.RU, JPoint, Joker, DotNext, Mobius
+# Выпуск №103 — The Art Of Programming [ Books ] Traffic flow и книги
 
 Поздравления с новым годом
 [Data Structures and Algorithms in Java, 6th Edition](http://bit.ly/TAOP103data)
