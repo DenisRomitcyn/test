@@ -18,12 +18,12 @@ twit: Разминаемся в партере с комментариями п�
 
 [Pavel Drobushevich передложил статью Томский](http://bit.ly/TAOP105web)  
 [Драйв: Что на самом деле нас мотивирует](http://bit.ly/TAOP105drive)  
-Почему Java?
-Маленькие компании
+Почему Java?  
+Маленькие компании  
 [IntelliJ IDEA Tips & Tricks](http://bit.ly/TAOP105IDEATips)
 
 # Участники
-[@golodnyj](https://twitter.com/golodnyj/) 
+[@golodnyj](https://twitter.com/golodnyj/)  
 [@b0noi](https://twitter.com/b0noi)  
 
 <iframe title="Выпуск №105 — The Art Of Programming [ Drinking ] Комментарии" src="https://www.podbean.com/media/player/2pqnx-5cac7a-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
