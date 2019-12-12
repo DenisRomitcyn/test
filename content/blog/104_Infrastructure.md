@@ -36,7 +36,6 @@ Sergey Kiselev и Pavel Drobushevich
 
 [Telegram канал](http://bit.ly/taoplive)  
 [Поддержи подкаст](http://bit.ly/TAOPpatron)  
-[Новые темы для выпусков](http://bit.ly/TAOPgit)  
 [Подпишись в iTunes](http://bit.ly/TAOPiTunes)  
 [Подпишись без iTunes](http://bit.ly/TAOPrss)   
 [Скачать подкаст](http://bit.ly/TAOP104mp3)  

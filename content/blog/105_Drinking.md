@@ -11,10 +11,10 @@ linktitle = ""
 title = "Комментарии"
 type = "post"
 
-twit: Разминаемся в партере с комментариями подслушателей в 105 выпуске The Art Of Programming
+twit: "Разминаемся в партере с комментариями подслушателей в 105 выпуске The Art Of Programming,http://bit.ly/TAOP105share"
 
 +++
-# Выпуск №105 — The Art Of Programming [ Drinking ] Комментарии.md
+# Выпуск №105 — The Art Of Programming [ Drinking ] Комментарии
 
 [Pavel Drobushevich передложил статью Томский](http://bit.ly/TAOP105web)  
 [Драйв: Что на самом деле нас мотивирует](http://bit.ly/TAOP105drive)  

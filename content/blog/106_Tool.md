@@ -11,7 +11,7 @@ linktitle = ""
 title = "JRebel and XRebel"
 type = "post"
 
-twit: Сладкая парочка jrebel и xrebel в 106 выпуске The Art Of Programming
+twit: "Сладкая парочка jrebel и xrebel в 106 выпуске The Art Of Programming,http://bit.ly/TAOP106share"
 
 +++
 # Выпуск №106 — The Art Of Programming [ Tool ] JRebel and XRebel
@@ -24,7 +24,7 @@ ZeroTurnaround
 [GeekOut](http://geekout.ee)  
 
 # Участники
-[@golodnyj](https://twitter.com/golodnyj/) 
+[@golodnyj](https://twitter.com/golodnyj/)  
 [@antonarhipov](https://twitter.com/antonarhipov/)
 
 <iframe title="Выпуск №106 — The Art Of Programming [ Tool ] JRebel and XRebel" src="https://www.podbean.com/media/player/y6zb2-5cfb61-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>

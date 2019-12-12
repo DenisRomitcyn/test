@@ -28,15 +28,15 @@ DropBox paper
 
 # Участники
 [@golodnyj](https://twitter.com/golodnyj/) 
+[@b0noi](https://twitter.com/b0noi)  
 
-<iframe title="202 Kubernetes и Container Registry в Яндекс.Облаке — The Art Of Programming [ Cloud ]" src="https://www.podbean.com/media/player/ruify-c9db1a-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe title="Выпуск №103 — The Art Of Programming [ Books ] Traffic flow и книги" src="https://www.podbean.com/media/player/snhqv-5bcd9d-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 # Благодарности патронам:
 Sergey Kiselev и Pavel Drobushevich
 
 [Telegram канал](http://bit.ly/taoplive)  
 [Поддержи подкаст](http://bit.ly/TAOPpatron)  
-[Новые темы для выпусков](http://bit.ly/TAOPgit)  
 [Подпишись в iTunes](http://bit.ly/TAOPiTunes)  
 [Подпишись без iTunes](http://bit.ly/TAOPrss)   
 [Скачать подкаст](http://bit.ly/TAOP103mp3)  
