@@ -30,6 +30,7 @@ DropBox paper
 [@golodnyj](https://twitter.com/golodnyj/) 
 
 <iframe title="202 Kubernetes и Container Registry в Яндекс.Облаке — The Art Of Programming [ Cloud ]" src="https://www.podbean.com/media/player/ruify-c9db1a-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
+
 # Благодарности патронам:
 Sergey Kiselev и Pavel Drobushevich
 
