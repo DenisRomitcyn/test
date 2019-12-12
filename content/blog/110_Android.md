@@ -16,12 +16,12 @@ twit: "Два слова про тоталитарные замашки Android 
 +++
 # Выпуск №110 — The Art Of Programming [ Android ] Тоталитарный Android N
 
-[HR cтартапы]  
-[Remote work on Java]  
-[Комментарии подслушателей]  
+HR cтартапы  
+Remote work on Java  
+Комментарии подслушателей  
 [Hadi Hariri — IntelliJ IDEA Tips and Tricks](http://bit.ly/TAOP110ideatt)  
 [Android N](http://bit.ly/TAOP110android)  
-[Про графы городов]  
+Про графы городов  
 [Focus](http://bit.ly/TAOP110focus)  
 
 # Участники
