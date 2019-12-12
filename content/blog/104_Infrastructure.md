@@ -11,7 +11,7 @@ linktitle = ""
 title = "Artifactory inside"
 type = "post"
 
-twit: Шумный 104 выпуск The Art Of Programming подкаста о Artifactory, Bintray и Mission Control
+twit: "Шумный 104 выпуск The Art Of Programming подкаста о Artifactory, Bintray и Mission Control,http://bit.ly/TAOP104share "
 
 +++
 # Выпуск №104 — The Art Of Programming [ Infrastructure ] Artifactory inside

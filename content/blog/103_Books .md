@@ -11,7 +11,7 @@ linktitle = ""
 title = "Traffic flow и книги"
 type = "post"
 
-twit: Про Traffic flow и книги в постновогоднем 103 выпуске The Art Of Programming
+twit: "Про Traffic flow и книги в постновогоднем 103 выпуске The Art Of Programming,http://bit.ly/TAOP103share "
 
 +++
 # Выпуск №103 — The Art Of Programming [ Books ] Traffic flow и книги
@@ -27,7 +27,7 @@ DropBox paper
 [Вкусные книги 030 — Шуттовская рота фантастика](http://bit.ly/TastyBooks30shared)  
 
 # Участники
-[@golodnyj](https://twitter.com/golodnyj/) 
+[@golodnyj](https://twitter.com/golodnyj/)  
 [@b0noi](https://twitter.com/b0noi)  
 
 <iframe title="Выпуск №103 — The Art Of Programming [ Books ] Traffic flow и книги" src="https://www.podbean.com/media/player/snhqv-5bcd9d-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>

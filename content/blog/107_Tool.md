@@ -11,7 +11,7 @@ linktitle = ""
 title = "BigData Processing"
 type = "post"
 
-twit: Cloud Dataflow и Pomodoro в 107 выпуске The Art Of Programming
+twit: "Cloud Dataflow и Pomodoro в 107 выпуске The Art Of Programming,http://bit.ly/TAOP107share "
 
 +++
 # Выпуск №107 — The Art Of Programming [ Tool ] BigData Processing
@@ -21,7 +21,7 @@ Cloud Dataflow
 Продуктивность  
 
 # Участники
-[@golodnyj](https://twitter.com/golodnyj/) 
+[@golodnyj](https://twitter.com/golodnyj/)  
 [@b0noi](https://twitter.com/b0noi)  
 
 <iframe title="Выпуск №107 — The Art Of Programming [ Tool ] BigData Processing" src="https://www.podbean.com/media/player/uk2yf-5d176f-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
