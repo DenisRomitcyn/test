@@ -31,11 +31,11 @@ DropBox paper
 # Благодарности патронам:
 Sergey Kiselev и Pavel Drobushevich
 
-[Telegram канал](http://bit.ly/taoplive)  
-[Поддержи подкаст]http://bit.ly/TAOPpatron 
-[Новые темы для выпусков] http://bit.ly/TAOPgit 
-[Подпишись в iTunes] http://bit.ly/TAOPiTunes 
-[Подпишись без iTunes] http://bit.ly/TAOPrss 
-[Скачать подкаст] http://bit.ly/TAOP103mp3
+[Telegram канал](http://bit.ly/taoplive)
+[Поддержи подкаст](http://bit.ly/TAOPpatron) 
+[Новые темы для выпусков](http://bit.ly/TAOPgit)
+[Подпишись в iTunes](http://bit.ly/TAOPiTunes)
+[Подпишись без iTunes](http://bit.ly/TAOPrss) 
+[Скачать подкаст](http://bit.ly/TAOP103mp3)
 [Старые выпуски](http://bit.ly/oldtaop)
 
