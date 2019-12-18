@@ -17,6 +17,7 @@ twit: "Поросята, Волк и Чистый код в 123 выпуске
 # Выпуск №123 — The Art Of Programming [ Book ] Поросята, Волк и Чистый код
 
 Книжные темы:  
+ 
  Reactive Programming with RxJava  
  [By Tomasz Nurkiewicz, Ben Christensen](http://bit.ly/TAOP123bookRX)  
  [Everything You Need to Know (and Do) As You Pursue Your Art Career](http://bit.ly/TastyBooks53buy)  
@@ -25,6 +26,7 @@ twit: "Поросята, Волк и Чистый код в 123 выпуске
  [https://github.com/ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)  
  [https://twitter.com/mxlearn](https://twitter.com/mxlearn)  
  [https://twitter.com/arxiv_cs_cl](https://twitter.com/arxiv_cs_cl)  
+
 Dyn’s Internet & distributed denial of service attack (DDoS)  
 [RethinkDB devzen](http://bit.ly/TAOP123devzen)  
 [ctocast](http://bit.ly/TAOP123ctocast)  
