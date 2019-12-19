@@ -2,7 +2,7 @@
 author = "golodnyj"
 categories = ["podcast"]
 tags = ["Book"]
-date = "2016-11-26"
+date = "2016-10-26"
 description = "Поросята, Волк и Чистый код"
 featured = "TAOP_123Twitter.png"
 featuredalt = "Поросята, Волк и Чистый код"
@@ -25,6 +25,7 @@ twit: "Поросята, Волк и Чистый код в 123 выпуске
  [https://github.com/ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)  
  [https://twitter.com/mxlearn](https://twitter.com/mxlearn)  
  [https://twitter.com/arxiv_cs_cl](https://twitter.com/arxiv_cs_cl)  
+
 Dyn’s Internet & distributed denial of service attack (DDoS)  
 [RethinkDB devzen](http://bit.ly/TAOP123devzen)  
 [ctocast](http://bit.ly/TAOP123ctocast)  
@@ -35,7 +36,7 @@ Dyn’s Internet & distributed denial of service attack (DDoS)
 [@golodnyj](https://twitter.com/golodnyj/)  
 [@b0noi](https://twitter.com/b0noi)  
 
-<iframe title="Выпуск №110 — The Art Of Programming [ Android ] Тоталитарный Android N" src="https://www.podbean.com/media/player/yy32p-5d9440-pb?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=107" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe title="Выпуск №123 — The Art Of Programming [ Book ] Поросята, Волк и Чистый код" src="https://www.podbean.com/media/player/zzwe6-63f046?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 # Благодарности патронам: 
 Sergey Kiselev, Sergii Zhuk, Aleksandr Kiriushin, Nikolay Ushmodin, Pavel Drobushevich, Pavel Sitnikov, Bogdan Storozhuk
