@@ -16,10 +16,10 @@ twit: "Это какой-то позор в 124 выпуске The Art Of Prog
 +++
 # Выпуск №124 — The Art Of Programming [ Drinking ] Это какой-то позор
 
-Комменты
-Apple MacBook Pro
-Android 7.1 & Pixel Phone
-AWS Lambda & Cloud Functions
+Комменты  
+Apple MacBook Pro  
+Android 7.1 & Pixel Phone  
+AWS Lambda & Cloud Functions  
 
 # Участники
 [@golodnyj](https://twitter.com/golodnyj/)  
