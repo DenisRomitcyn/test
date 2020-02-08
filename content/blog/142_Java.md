@@ -25,7 +25,7 @@ twit ="Потоки и Akka в полевом, шумном 142 выпуске T
 <iframe title="Выпуск №142 — The Art Of Programming [ Java ] Потоки и Akka" src="https://www.podbean.com/media/player/mcz64-6e4f01?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
 
 # Благодарности патронам: 
-Sergey Kiselev, Sergey Petrov, Sergey Vinyarsky, Bogdan Storozhuk, Aleksandr Kiriushin, Sergii Zhuk, Pavel Sitnikov, Pavel Drobushevich, Yakov Krainov, Lagunovsky Ivan, Konstantin Kovrizhnykh, Евгений Власов, Vasiliy Galkin, Grigori Pivovar, Nikolay Ushmodin, B7W, Фёдор Русак, Oleksii Nesterenko, Leo Kapanen, Dmitry Dolzhenko
+Sergey Kiselev, Sergey Petrov, Sergey Vinyarsky, Bogdan Storozhuk, Aleksandr Kiriushin, Sergii Zhuk, Pavel Sitnikov, Pavel Drobushevich, Yakov Krainov, Lagunovsky Ivan, Konstantin Kovrizhnykh, Евгений Власов, Vasiliy Galkin, Grigori Pivovar, Nikolay Ushmodin, B7W, Фёдор Русак, Oleksii Nesterenko, Leo Kapanen, Dmitry Dolzhenko  
 
 [Telegram канал](http://bit.ly/taoplive)  
 [Поддержи подкаст](http://bit.ly/TAOPpatron)  
